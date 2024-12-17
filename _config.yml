@@ -1,0 +1,11 @@
+title: brouxtforce
+domain: brouxtforce.github.io
+url: https://brouxtforce.github.io
+github_username: brouxtforce
+
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - LICENSE
+  - README.md
